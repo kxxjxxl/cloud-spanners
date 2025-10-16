@@ -18,7 +18,7 @@ It supports both **single-batch** and **chunked** inserts, with optional type de
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - Google Cloud SDK installed and authenticated (`gcloud auth application-default login`)
